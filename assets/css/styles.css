@@ -484,7 +484,7 @@ img{
 }
 
 .skills__java{
-    width: 85%;
+    width: 95%;
 }
 
 .skills__swift{
@@ -492,7 +492,7 @@ img{
 }
 
 .skills__python{
-    width: 50%;
+    width: 60%;
 }
 
 .skills__nodejs{
@@ -500,7 +500,7 @@ img{
 }
 
 .skills__git{
-    width: 80%;
+    width: 90%;
 }
 
 .skills__xcode{
@@ -508,14 +508,42 @@ img{
 }
 
 .skills__androidstudio{
-    width: 90%;
+    width: 95%;
 }
 
 .skills__vscode{
     width: 90%;
 }
 
+.skills__scala{
+    width: 40%;
+}
+
+.skills__bash{
+    width: 45%;
+}
+
+.skills__unix{
+    width: 70%;
+}
+
+.skills__hadoop{
+    width: 50%;
+}
+
+.skills__scikitlearn{
+    width: 30%;
+}
+
+.skills__javafx{
+    width: 50%;
+}
+
 .skills__googlecloud{
+    width: 50%;
+}
+
+.skills__aws{
     width: 50%;
 }
 
@@ -533,6 +561,10 @@ img{
 
 .skills__neo4j{
     width: 55%;
+}
+
+.skills__graphx{
+    width: 30%;
 }
 
 .skills__close .skills__list{
