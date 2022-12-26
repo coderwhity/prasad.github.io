@@ -487,6 +487,10 @@ img{
     width: 95%;
 }
 
+.skills__kotlin{
+    width: 50%;
+}
+
 .skills__swift{
     width: 70%;
 }
@@ -497,6 +501,14 @@ img{
 
 .skills__nodejs{
     width: 50%;
+}
+
+.skills__reactjs{
+    width: 20%;
+}
+
+.skills__spring{
+    width: 70%;
 }
 
 .skills__git{
