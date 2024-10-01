@@ -81,6 +81,11 @@ let swiper = new Swiper('.portfolio__container', {
       el: ".swiper-pagination",
       clickable: true,
     },
+    autoplay: {
+        delay: 5000,
+        disableOnInteraction: false,
+        pauseOnMouseEnter: true,  // Pauses autoplay when user hovers over the section
+    },
   });
 
 
