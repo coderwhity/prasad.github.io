@@ -542,86 +542,58 @@ img{
     background-color: var(--first-color);
 }
 
-.skills__java{
+
+
+/* D */
+.skills__python{
     width: 95%;
 }
-
-.skills__kotlin{
-    width: 50%;
+.skills__dart{
+    width: 90%;
+}
+.skills__java{
+    width: 85%;
+}
+.skills__c{
+    width: 85%;
+}
+.skills__cpp{
+    width: 85%;
 }
 
-.skills__swift{
-    width: 70%;
+.skills__javascript{
+    width: 80%;
 }
+/* --D-- */
 
-.skills__typescript{
-    width: 50%;
+/* WAD */
+.skills__flutter{
+    width: 95%;
 }
-
-.skills__python{
+.skills__django{
+    width: 90%;
+}
+.skills__reactn{
     width: 70%;
 }
 
 .skills__nodejs{
-    width: 50%;
-}
-
-.skills__reactjs{
-    width: 20%;
-}
-
-.skills__spring{
     width: 80%;
+}
+/* --WAD-- */
+
+/* DT */
+.skills__vscode{
+    width: 95%;
 }
 
 .skills__git{
     width: 90%;
 }
 
-.skills__xcode{
-    width: 85%;
-}
-
 .skills__androidstudio{
-    width: 95%;
-}
-
-.skills__vscode{
     width: 90%;
 }
-
-.skills__scala{
-    width: 40%;
-}
-
-.skills__bash{
-    width: 60%;
-}
-
-.skills__unix{
-    width: 80%;
-}
-
-.skills__coredata{
-    width: 40%;
-}
-
-.skills__couchbase{
-    width: 40%;
-}
-
-.skills__hadoop{
-    width: 50%;
-}
-
-.skills__scikitlearn{
-    width: 30%;
-}
-
-.skills__javafx{
-    width: 50%;
-}
-
 .skills__googlecloud{
     width: 50%;
 }
@@ -630,25 +602,25 @@ img{
     width: 50%;
 }
 
+/* --DT-- */
+
+/* DB */
+.skills__firebasefirestore{
+    width: 95%;
+}
+.skills__mongodb{
+    width: 85%;
+}
 .skills__mysql{
-    width: 90%;
+    width: 70%;
 }
 
 .skills__sqlite{
-    width: 80%;
+    width: 70%;
 }
 
-.skills__mongodb{
-    width: 65%;
-}
 
-.skills__neo4j{
-    width: 55%;
-}
-
-.skills__graphx{
-    width: 30%;
-}
+/* --DB-- */
 
 .skills__close .skills__list{
     height: 0;
@@ -1224,7 +1196,7 @@ img{
         font-size: 2rem;
     }
     .research__content{
-        padding: 6rem 0 2rem 2.5rem;
+        padding: 3rem 0 2rem 2.5rem;
     }
     .research__modal-content{
         width: 450px;
